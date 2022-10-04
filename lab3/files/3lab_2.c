@@ -25,6 +25,7 @@ int getMaxIndex(int *arr) {
     }
     return index;
 }
+
 int main() {
     int arr[5][5] = {{1, 2, 3, 4, 5},
                      {6, 7, -8, 9, 10},

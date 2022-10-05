@@ -1,0 +1,10 @@
+/private/var/folders/m9/j27qp1190n529nnr_jkz__bh0000gn/T/AppTranslocation/59BD873D-6A25-416C-8D07-A81F8B78E068/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/m9/j27qp1190n529nnr_jkz__bh0000gn/T/AppTranslocation/59BD873D-6A25-416C-8D07-A81F8B78E068/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/vadimcelnik/labWork/lab3 -B /Users/vadimcelnik/labWork/lab3/cmake-build-debug
+-- The C compiler identification is AppleClang 13.1.6.13160021
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/vadimcelnik/labWork/lab3/cmake-build-debug
